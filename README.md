@@ -24,7 +24,7 @@ The repository is organized as follows:
 
 The `01_ModelLoading` folder shows how to load and render a 3D model as depicted in the following screenshots:
 
-![Model Loading Image 1](01_ModelLoading/Screenshot 2025-01-31 160922.png)
+![Model Loading Image 1](01_ModelLoading/Screenshot2025-01-31160922.png)
 ![Model Loading Image 2](01_ModelLoading/MLS2.png)
 
 ### Skeletal Animation:
