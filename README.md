@@ -24,15 +24,15 @@ The repository is organized as follows:
 
 The `01_ModelLoading` folder shows how to load and render a 3D model as depicted in the following screenshots:
 
-![Model Loading Image 1](MLS1.png)
-![Model Loading Image 2](MLS2.png)
+![Model Loading Image 1](01_ModelLoading/MLS1.png)
+![Model Loading Image 2](01_ModelLoading/MLS2.png)
 
 ### Skeletal Animation:
 
 The `02_SkeletalAnimation` folder demonstrates how to load a model with an armature and implement skeletal animation. The following screenshots showcase the result of this implementation:
 
-![Skeletal Animation Image 1](MLA1.png)
-![Skeletal Animation Image 2](MLA2.png)
+![Skeletal Animation Image 1](02_SkeletalAnimation/MLA1.png)
+![Skeletal Animation Image 2](02_SkeletalAnimation/MLA2.png)
 
 *Make sure to replace the `ModelLoadingImage1.png` and other placeholders with the actual image file names you use in the repository*
 
